@@ -1,4 +1,4 @@
-![ChatGPT Image Jun 13, 2025, 07_01_31 PM](https://github.com/user-attachments/assets/7d5eadec-a577-4e14-802a-76999b7a4525)# 🧮 Calculator
+🧮 Calculator
 
 A modern, theme-toggling, key-bindable calculator made with Python's `tkinter`. Includes history logging, error handling, and a clean GUI 
 
@@ -38,11 +38,16 @@ python3 calculator.py
 ---
 
 ## 📸 Preview
-1. Light theme
-   ![ksnip_20250613-174123](https://github.com/user-attachments/assets/95029548-caff-4a18-8ba8-dcd1f917a644)
+# 1. Light Theme
 
-2. Dark theme
-   ![ksnip_20250613-174209](https://github.com/user-attachments/assets/2a69f40d-66b7-42ab-82a6-844f82e59084)
+![ksnip_20250613-174123](https://github.com/user-attachments/assets/91b2c810-8da4-4007-a852-9fde506a6b63)
+
+# 2. Dark theme
+
+![ksnip_20250613-174209](https://github.com/user-attachments/assets/026f22f7-62f3-453b-b842-112c89dbcf6e)
+
+
+
 
 
 ---
